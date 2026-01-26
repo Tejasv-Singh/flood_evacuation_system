@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# Data and Outputs
+output/
+*.tif
+*.geojson
+*.graphml
+*.gpkg
